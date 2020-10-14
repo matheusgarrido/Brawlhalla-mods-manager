@@ -1,6 +1,6 @@
 # Brawhalla Mods Manager
 
-Gerenciador de mods para brawlhalla, criado para facilitar o processo de alteração de arquivos na máquina.
+Projeto casual/informal de um gerenciador de mods para o jogo Brawlhalla, a fim de facilitar o processo de substituição de arquivos do jogo na máquina.
 
 Um modelo do gerenciador pode ser baixado neste [link](https://1drv.ms/u/s!AllqiIWjRiXE7iETUt00dF-jEQxc?e=Hf7whs).
 
