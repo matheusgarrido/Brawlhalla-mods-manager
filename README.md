@@ -2,9 +2,12 @@
 
 Gerenciador de mods para brawlhalla, criado para facilitar o processo de alteração de arquivos na máquina.
 
+Um modelo do gerenciador pode ser baixado neste [link](https://1drv.ms/u/s!AllqiIWjRiXE7iETUt00dF-jEQxc?e=Hf7whs).
+
 ## Avisos
 
 Essas modificações não geram banimento no jogo nem dão vantagens para o jogador que estiver usando, pois as alterações são somente estéticas e não afetam as mecânicas da jogatina e nem os servidores.
+
 As alterações são locais, então os amigos que estiverem jogando juntos devem utilizar e ativar a mesma modificação.
 
 ## Configuração
