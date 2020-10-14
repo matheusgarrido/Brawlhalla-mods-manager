@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.Form1.resources
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\bin\Debug\BrawhallaMods.exe.config
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\bin\Debug\BrawhallaMods.exe
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\bin\Debug\BrawhallaMods.pdb
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.exe
+C:\Users\Matheus\Desktop\Projetos\Brawlhalla\código\BrawhallaMods\obj\Debug\BrawhallaMods.pdb
